@@ -1,12 +1,10 @@
-```,markdown
-# Vivianne Welch - vngfdxez
+### vngfdxez.github.io
 
-Luminescent lines of code weave my digital tapestry. In the realm of Direct Accounts, I chase the harmony of Go's symphony.
+I weave through the shadows, a night owl scouring the depths of bandwidths. In this realm, I am the wirecutter, paring away the unnecessary to reveal the hidden harmonics.
 
-UI/UX serenity echoes through my creations, an oasis in the vast expanse of software.
+By day, I don the mantle of Customer Solutions Analyst, guiding clients through the labyrinth of Ruby and React. But at night, I don my Svelte cloak, crafting applications that dance with the rhythm of the code.
 
-Programming sensors is my canvas, where technology and art converge.
+My tools are many, but my focus is singular: to liberate the bandwidths, to set them free from the shackles of inefficiency.
 
-Versatile coherent intranet - my north star guiding each commit.
+'Horizontal content-based firmware' - this is my creed, my guiding light in the dark expanse of the digital world.
 
-```
