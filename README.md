@@ -1,16 +1,15 @@
-# Vivianne Welch - Disrupting the Realm of Sensors
+# Vivianne Welch - Code Pathologist
 
-A secretive Corporate Branding Agent, shrouded in mystery.
+Terminal dweller by day, parsing programs by night. Corporate Creative Specialist with a taste for cryptography.
 
-I hack sensors, to create an upgradable tertiary contingency.
+## Toolkit
+Java, Redis, PostgreSQL, Next.js, Firebase, MongoDB - the instruments of my trade.
 
-**Stack:** TypeScript, Flutter, Next.js, PostgreSQL, GCP
+## Vibe
+A focus on parsing programs, where the lines between code and chaos blur.
 
-**Vibe:** UI/UX aficionado, with an affinity for the unknown.
+## Motto
+"Public-key logistical functionalities" - the cryptic phrase that guides me.
 
-**Motto:** "Upgradable tertiary contingency"
-
-My code is a labyrinth, navigate at your own risk.
-
-
-
+## Contributions
+Welcome to my GitHub repository, where the pathology of code meets creativity.
