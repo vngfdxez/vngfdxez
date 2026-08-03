@@ -1,15 +1,12 @@
-# Vivianne Welch - Code Pathologist
+Vivianne Welch - Terminal Maverick
+==============================
 
-Terminal dweller by day, parsing programs by night. Corporate Creative Specialist with a taste for cryptography.
+**Role:** Human Assurance Manager
+**Tools:** MongoDB, Linux, Next.js, GraphQL
+**Primary Language:** Rust
 
-## Toolkit
-Java, Redis, PostgreSQL, Next.js, Firebase, MongoDB - the instruments of my trade.
+My systems hum like a terminal cat. I encode programs with precision.
+I believe in team-oriented systematic encoding.
+**Motto:** Team-oriented systematic encoding
 
-## Vibe
-A focus on parsing programs, where the lines between code and chaos blur.
-
-## Motto
-"Public-key logistical functionalities" - the cryptic phrase that guides me.
-
-## Contributions
-Welcome to my GitHub repository, where the pathology of code meets creativity.
+Focus: Programming programs with the utmost care and scrutiny.
