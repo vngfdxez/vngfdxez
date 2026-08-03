@@ -1,9 +1,12 @@
-### Welcome to my Neurotic Nexus of Codecraft
+# Vivianne Welch
 
-As Vivianne Welch, a Dynamic Directives Assistant, I dwell in the realm of Rust, guided by the tools of GCP, PostgreSQL, and Tailwind. 
+I'm a rogue agent in the world of software, fueled by an insatiable hunger for bugs and inefficiencies. As a Global Marketing Consultant, I wield the power of code to disrupt the status quo.
 
-In this expanse, I commit to the pursuit of open-source excellence, driven by the mantra: **Profit-focused bifurcated neural-net**.
+**Tools of the Trade:** Ruby, Flutter, PostgreSQL, Tailwind, NestJS, AWS, Linux
 
-Here, protocols are transmitted, not merely conveyed.
+My lens is fixed on calculating monitors, the hidden dynamics that govern the behavior of complex systems.
 
-Expect unexpected artifacts.
+**Motto:** 'Networked composite throughput'
+
+This is the beacon that guides me, the North Star of my endeavors.
+
