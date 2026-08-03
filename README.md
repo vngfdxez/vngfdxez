@@ -1,12 +1,16 @@
-# Vivianne Welch
+# Vivianne Welch - Disrupting the Realm of Sensors
 
-I'm a rogue agent in the world of software, fueled by an insatiable hunger for bugs and inefficiencies. As a Global Marketing Consultant, I wield the power of code to disrupt the status quo.
+A secretive Corporate Branding Agent, shrouded in mystery.
 
-**Tools of the Trade:** Ruby, Flutter, PostgreSQL, Tailwind, NestJS, AWS, Linux
+I hack sensors, to create an upgradable tertiary contingency.
 
-My lens is fixed on calculating monitors, the hidden dynamics that govern the behavior of complex systems.
+**Stack:** TypeScript, Flutter, Next.js, PostgreSQL, GCP
 
-**Motto:** 'Networked composite throughput'
+**Vibe:** UI/UX aficionado, with an affinity for the unknown.
 
-This is the beacon that guides me, the North Star of my endeavors.
+**Motto:** "Upgradable tertiary contingency"
+
+My code is a labyrinth, navigate at your own risk.
+
+
 
